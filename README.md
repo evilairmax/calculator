@@ -1,4 +1,4 @@
-#Calculator
+# Calculator
 
 [EN] This is a basic calculator made with pure JavaScript and HTML 5 elements. Developed for only testing/learn purposes.
 
