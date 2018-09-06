@@ -6,4 +6,10 @@
 
 [RU] Это базовый калькулятор, выполненный с использованием простых элементов JavaScript и HTML 5. Разработано только для тестирования / обучения.
 
+
+# LIVE VERSION
+
+[Click here](https://rodolfothiede.me/calculator/).
+
+
 xxxxxxxxxxxx
