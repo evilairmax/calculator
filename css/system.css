@@ -12,7 +12,7 @@ html, body {
 
 #container {
     width: 100%;
-    height: calc(100% - 20px);
+    height: calc(100% - 30px);
     display: flex;
     align-items: center;
     justify-content: center;
@@ -31,9 +31,8 @@ html, body {
     border-radius: 3px;
     text-align: right;
     font-family: 'IBM Plex Mono', monospace;
-    background: #FEAC5E;
-    background: -webkit-linear-gradient(to right, #4BC0C8, #C779D0, #FEAC5E);
-    background: linear-gradient(to right, #4BC0C8, #C779D0, #FEAC5E);
+    background-color: #f0e47b;
+    color: #151515;
 }
 
 #container > #calculator > #screen > h1 {
@@ -79,12 +78,13 @@ html, body {
 
 footer {
     text-align: center;
-    margin-bottom: 10px;
-    height: 10px;
-    font-size: 10px;
+    height: 20px;
+    font-size: 12px;
 }
 
 footer > a {
-    color: #a3f87d;
+    color: #a9ffd5;
     text-decoration: none;
+    font-weight: 700;
+    border-bottom: 1px dashed white;
 }
